@@ -11413,7 +11413,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgb(0 0 0 / 18%) 0%, rgb(0 0 0) 108%), url(../assets/img/bg-manaus_otimizada.jpg);
+  background: linear-gradient(to bottom, rgb(0 0 0 / 18%) 0%, rgb(0 0 0) 108%), url(../assets/img/bg-ilovecearamirim.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11495,7 +11495,7 @@ header.masthead h1, header.masthead .h1 {
 .pessoas-box-2{
   padding-top: 15rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: url(../assets/img/bg-manaus.jpg); 
+  background: url(../assets/img/bg-ilovecearamirim.jpg); 
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
